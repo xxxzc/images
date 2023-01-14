@@ -1,0 +1,24 @@
+Course,Link,Provider,Hour,Syllabus,Data Coding,Probability and Statistics,Machine Learning,Language,Tools,Textbook
+CS109a Data Science I,https://cs109.github.io/a-2017,Harvard,40,http://cs109.github.io/2015/pages/syllabus.html,1,1,1,Python,Piazza,http://www-bcf.usc.edu/~gareth/ISL/
+Data Science 101,https://summer.stanford.edu/courses/stats-101-data-science-101,Stanford,32,https://stanford.app.box.com/s/c0pedbkf9wegj6u04xccdr1b1pt518sp,1,1,1,R,Jupyter,
+Practical Data Science,http://www.datasciencecourse.org/,CMU,48,http://www.datasciencecourse.org/lectures/,1,1,1,Python,Jupyter,
+Introduction to Data Science,https://www.edx.org/course/introduction-to-data-science-4,Microsoft,24,https://courses.edx.org/courses/course-v1:Microsoft+DAT101x+2T2018/course/,1,1,1,Python/R,Microsoft Applications,
+Data 8 The Foundations of Data Science,https://data.berkeley.edu/education/courses/data-8,Berkeley,36,,1,1,1,Python,Jupyter,https://www.inferentialthinking.com/chapters/intro
+DS100 Principles and Techniques of Data Science,http://www.ds100.org/sp18/,Berkeley,36,http://www.ds100.org/fa17/syllabus,1,1,1,Python,"Anaconda
+Jupyter
+Piazza",https://www.textbook.ds100.org/
+DS-GA-1001: Introduction to Data Science,https://github.com/briandalessandro/DataScienceCourse,NYU,32,https://github.com/briandalessandro/DataScienceCourse/blob/master/ipython/references/Syllabus_2017.pdf,1,1,1,Python,iPython,"http://data-science-for-biz.com/DSB/Home.html
+https://web.stanford.edu/~hastie/Papers/ESLII.pdf"
+Data Science Specialization,https://www.coursera.org/specializations/jhu-data-science,Hopkins,160,https://www.coursera.org/specializations/jhu-data-science,1,1,1,R,,
+Data Science A-Z,https://www.udemy.com/datascience/?siteID=SAyYsTvLiGQ-.8tundweP3t7DA5aFP5Rbg&LSNPUBID=SAyYsTvLiGQ,Kirill Eremenko,21,https://www.udemy.com/datascience/?siteID=SAyYsTvLiGQ-.8tundweP3t7DA5aFP5Rbg&LSNPUBID=SAyYsTvLiGQ#instructor-1,1,0,1,,"Tableau
+Gretl",
+COGS108 Data Science in Practice,https://github.com/COGS108/Overview,UCSD,,https://github.com/COGS108/Overview/blob/master/COGS108-Syllabus.pdf,1,1,1,Python,"Jupyter
+Piazza",
+DSC10 Principles of Data Science,https://github.com/ucsd-ets/dsc10-sp18,UCSD,,,1,1,1,Python,"Jupyter
+iClickers",https://www.inferentialthinking.com/chapters/intro
+DAT8 General Assembly's Data Science course,https://github.com/justmarkham/DAT8,Kevin Markham,,https://github.com/justmarkham/DAT8,1,0,1,Python,Jupyter,
+Learning from Data,http://work.caltech.edu/telecourse.html,CALTECH,,http://work.caltech.edu/telecourse.html,0,1,1,,,https://dl.acm.org/citation.cfm?id=2207825
+STAT289 Introduction to Data Science,https://statsmaths.github.io/stat289-f18/,Yale,,https://statsmaths.github.io/stat289-f18/assets/syllabus/STAT289_Syllabus.pdf,1,0,1,R,,
+Data Science at Scale Specialization,https://www.coursera.org/specializations/data-science,UW,48,https://www.coursera.org/specializations/data-science,1,1,1,SQL,,
+Introduction to Computational Thinking and Data Science,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/index.htm,MIT,,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/syllabus/,1,1,1,Python,,https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-second-edition
+Data Science Fundations,https://cognitiveclass.ai/learn/data-science/,IBM,13,,1,0,0,Python/R,,
